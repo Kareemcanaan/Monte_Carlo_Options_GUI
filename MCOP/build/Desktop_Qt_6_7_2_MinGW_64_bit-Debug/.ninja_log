@@ -1,0 +1,10 @@
+# ninja log v6
+7	708	7426068078317219	MCOP_autogen/timestamp	cd3e858ace871262
+7	708	7426068078317219	MCOP_autogen/mocs_compilation.cpp	cd3e858ace871262
+7	708	7426068078317219	C:/Users/kareem/Documents/MonteCarloOptionsPricer/MCOP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MCOP_autogen/timestamp	cd3e858ace871262
+7	708	7426068078317219	C:/Users/kareem/Documents/MonteCarloOptionsPricer/MCOP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/MCOP_autogen/mocs_compilation.cpp	cd3e858ace871262
+731	1712	7426068079392680	CMakeFiles/MCOP.dir/pricer.cpp.obj	3f30d88cf99b97ab
+714	3211	7426068079223862	CMakeFiles/MCOP.dir/MCOP_autogen/mocs_compilation.cpp.obj	448bd3831c75a4ee
+719	3287	7426068079273892	CMakeFiles/MCOP.dir/main.cpp.obj	852e6c26beef494e
+725	3624	7426068079333011	CMakeFiles/MCOP.dir/mainwindow.cpp.obj	b6b9159acd925a74
+3624	3880	7426068108323731	MCOP.exe	d61a11db37d04224
