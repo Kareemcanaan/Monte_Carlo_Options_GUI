@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QLabel> // Include QLabel
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -19,6 +20,10 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
+
+    QString removeCommas(QString input);
+
+    // QLabel pointers for the results (no need for these if we access through ui)
 };
 
 #endif // MAINWINDOW_H
